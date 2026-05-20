@@ -227,7 +227,7 @@ mean_f1        = среднее F1 по 19 фото
 
 График зависимости средних метрик от confidence threshold:
 
-![Qwen2.5-VL confidence metrics](Qwen25-VL_confidence_metrics_plot.jpg)
+![Qwen2.5-VL confidence metrics](img/Qwen25-VL_confidence_metrics_plot.jpg)
 
 ### Анализ пропущенных продуктов
 
@@ -273,11 +273,11 @@ mean_f1        = среднее F1 по 19 фото
 
 График LLaVA:
 
-![LLaVA confidence metrics](llava_4bit_confidence_metrics_plot.png)
+![LLaVA confidence metrics](img/llava_4bit_confidence_metrics_plot.png)
 
 Таблица LLaVA:
 
-![LLaVA confidence metrics table](llava_4bit_confidence_metrics_table.png)
+![LLaVA confidence metrics table](img/llava_4bit_confidence_metrics_table.png)
 
 ### Сравнение при threshold = 0.0
 
